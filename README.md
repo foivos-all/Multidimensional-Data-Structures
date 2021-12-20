@@ -4,10 +4,10 @@
 
 # Multidimentional Data Structures
 <p align="justify">
-This repository holds the Java and C++ version of a Battleship game, created during the Object Oriented Programming course, completed during my first year of studies in the Computer Engineering and Informatics Department at the University of Patras. 
+This repository holds the implementation of the KDTree and the QuadTree, multidimentional data structures, written in the Python programming language. This was created during an elective course, called Multidimentional Data Structures, completed during my third year of studies in the Computer Engineering and Informatics Department at the University of Patras. 
 </p>
 
 # Structure
 <p align="justify">
-In the Java folder, you can find the Java version of the game, which is as such:
+In the KDTree folde
 </p>
