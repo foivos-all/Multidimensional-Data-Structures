@@ -9,5 +9,5 @@ This repository holds the implementation of the KDTree and the QuadTree, multidi
 
 # Structure
 <p align="justify">
-In the KDTree folde
+In the KD-Tree folder you can find the code for the kd tree, the data and the airports class that represents each airport. The same can be found in the Quad-Tree folder, with the main difference, that the code is for a quad tree.
 </p>
